@@ -7,8 +7,8 @@ About:
 * This is a [Community Group](https://www.w3.org/community/) of the [W3C](https://www.w3.org), the web standards organization
 * [How to join](joining).
 * [Mailing list archives](https://lists.w3.org/Archives/Public/public-credibility/), mostly for announcements
-* [Website: credweb.org](https://credweb.org) backed by [this repo](https://github.com/w3c/credweb)
-* [Issues](https://github.com/w3c/credweb/issues) for discussion, on GitHub
+* [Website: credweb.org](https://credweb.org) backed by [this repo](https://github.com/w3c-cg/credweb)
+* [Issues](https://github.com/w3c-cg/credweb/issues) for discussion, on GitHub
 
 ### Documents
 
